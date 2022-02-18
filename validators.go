@@ -39,4 +39,5 @@ var validatorNames = map[string]string{
 	"dxvaloper18ct34t7r89h8r6pq26euqhceqv2eg73svj0y74": "Kitkat",
 	"dxvaloper1h0xx0c5ahg87stumfqcn70nxe6h4dw45jfu2gy": "Cryptoninja",
 	"dxvaloper1a2ys9e2v9agzves0thdl89x9qd9sdag363575v": "Clickpayment",
+	"dxvaloper1yplgt00ymd00z9lhtwxrmg548x2qwcav6d9dft": "Bazer",
 }
