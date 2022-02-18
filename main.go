@@ -5,7 +5,7 @@ import (
 	"log"
 )
 
-const statPath = "/home/dmitrii/proposers_stat.txt"
+const statPath = "/home/dmitrii/proposers.txt"
 
 type Usecase = string
 
